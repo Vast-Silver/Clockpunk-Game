@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Level_Gameplay.umap",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Level_Gameplay_BuiltData.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Textures/SatMaps.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/VRTemplate/Input/Actions/IA_TimeAccelerate.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/VRTemplate/Input/IMC_Default.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/VRTemplate/Input/Actions/IA_TimeRewind.uasset"
+			]
+		}
+	]
+}
