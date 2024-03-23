@@ -17,7 +17,12 @@
 				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/VRTemplate/Input/Actions/IA_TimeRewind.uasset",
 				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Blueprints/BP_SpiderEnemy.uasset",
 				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Blueprints/BP_Goal.uasset",
-				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Blueprints/BP_Defender.uasset"
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Blueprints/BP_Defender.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/M_DebugMaterial.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/M_DebugMaterial_Green.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/M_DebugMaterial_Red.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/M_DebugMaterial_Yellow.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Blueprints/BP_RotatingTower.uasset"
 			]
 		}
 	]
