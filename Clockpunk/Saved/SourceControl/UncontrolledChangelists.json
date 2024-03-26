@@ -22,7 +22,30 @@
 				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/M_DebugMaterial_Green.uasset",
 				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/M_DebugMaterial_Red.uasset",
 				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/M_DebugMaterial_Yellow.uasset",
-				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Blueprints/BP_RotatingTower.uasset"
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Blueprints/BP_RotatingTower.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/ClockworkSpider.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/ClockworkSpider_PhysicsAsset.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/ClockworkSpider_Skeleton.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/Material.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/MaterialBalck.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/MaterialSilver.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/Normal_2K__scoacdjp.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/Normal_2K__scoacdjp_ncl1_1.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/M_DebugMaterial_Yellow.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/M_DebugMaterial.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/M_DebugMaterial_Green.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/M_DebugMaterial_Red.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/MaterialSilver.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/Material.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/MaterialBalck.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/M_Spider_Bronze.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/M_Spider_Face.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Materials/M_Spider_Silver.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Animations/SpiderControlRig.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Meshes/ClockworkSpider_Skeleton_AnimBlueprint.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Textures/Normal_2K__scoacdjp.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/Textures/Normal_2K__scoacdjp_ncl1_1.uasset",
+				"F:/Studenten/Lars Gonikman/Clockpunk-Game/Clockpunk/Content/E_TowerRotationDirection.uasset"
 			]
 		}
 	]
